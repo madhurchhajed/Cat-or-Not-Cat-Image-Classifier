@@ -30,7 +30,7 @@ After downloading are project you can directly run main.py file.
 
 # How are neural network model works ?
 
-### 1. Images from are training and testing dataset are reshaped. 
+### 1. Images from our training and testing dataset are reshaped. 
  
 <p align="center">
   
