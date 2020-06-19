@@ -17,8 +17,11 @@ After downloading are project you can directly run main.py file.
 ### Here our some screenshots :
 <p align="center">
   <img src="screenshots/1.JPG" >
+
   <img src="screenshots/2.JPG" >
+  
   <img src="screenshots/3.JPG" >
+  
   <img src="screenshots/4.JPG" >
     
 </p>
@@ -30,16 +33,24 @@ After downloading are project you can directly run main.py file.
 ### 1. Images from are training and testing dataset are reshaped. 
  
 <p align="center">
-  <img src="images/imvectorkiank.JPG" >
+  
+  <img src="images/imvectorkiank.png" >
+  
 </p>
+
+
 ### 2. Architecture of our model : 
 
 <p align="center">
+  
   <img src="images/LlayerNN_kiank.png" >
+  
 </p>
 
 ### 3. Structure of our model :
 
 <p align="center">
+  
   <img src="images/structure.png" >
+  
 </p>
