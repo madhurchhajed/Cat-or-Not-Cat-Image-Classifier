@@ -48,6 +48,15 @@ After downloading are project you can directly run main.py file.
 </p>
 
 ### 3. Structure of our model :
+#### Main stages involved in this process :
+        1. Initialize parameters
+        2. Forward Propogation
+        3. Cost Calculation
+        4. Backward Propogation 
+        5. Update Parameters
+        6. Predict function 
+
+All functions required for this are defined in dnn_app_utils_v3.py file.
 
 <p align="center">
   
