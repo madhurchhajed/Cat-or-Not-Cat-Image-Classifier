@@ -2,8 +2,8 @@
 A deep neural network application for classification of images as a cat or not cat.
 
 ## Content :
-1. How are application works ?
-2. How are neural network model works ?
+1. How our application works ?
+2. How our neural network model works ?
 
 
 # How application work ?
@@ -28,7 +28,7 @@ After downloading are project you can directly run main.py file.
 
 
 
-# How are neural network model works ?
+# How our neural network model works ?
 
 ### 1. Images from our training and testing dataset are reshaped. 
  
