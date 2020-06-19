@@ -22,7 +22,7 @@ After downloading are project you can directly run main.py file.
   
   <img src="screenshots/3.JPG" >
   
-  <img src="screenshots/4.JPG" >
+  <img src="screenshots/5.JPG" >
     
 </p>
 
